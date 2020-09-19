@@ -1,4 +1,4 @@
-package com.jesswhelming.dailyAlgorism.stackNqueue;
+package com.cyh.dailyAlgorism.stackNqueue;
 
 public class StackTest {
 

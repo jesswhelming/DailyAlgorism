@@ -1,4 +1,4 @@
-package com.jesswhelming.dailyAlgorism.fullSearch;
+package com.cyh.dailyAlgorism.fullSearch;
 
 public class FullSearchTest {
 

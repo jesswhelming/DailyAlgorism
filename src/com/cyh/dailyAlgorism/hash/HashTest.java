@@ -1,4 +1,4 @@
-package com.jesswhelming.dailyAlgorism.hash;
+package com.cyh.dailyAlgorism.hash;
 
 public class HashTest {
 
