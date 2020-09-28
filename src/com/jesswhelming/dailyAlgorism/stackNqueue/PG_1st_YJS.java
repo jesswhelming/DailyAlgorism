@@ -1,4 +1,4 @@
-package com.jesswhelming.dailyAlgorism.heap;
+package com.jesswhelming.dailyAlgorism.stackNqueue;
 
 import java.util.Arrays;
 
