@@ -1,5 +1,7 @@
 package com.jesswhelming.dailyAlgorism.sort;
 
-public class SortTest {
+import java.util.Scanner;
 
+public class SortTest {
+	
 }
