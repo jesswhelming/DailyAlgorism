@@ -3,7 +3,7 @@ package com.cyh.dailyAlgorism.hash;
 import java.util.*;
 import java.util.Map.Entry;
 
-public class HashTest {
+public class 틀림_프로그래머스_level3_베스트앨범 {
 
 	public static void main(String[] args) {
 		
