@@ -37,8 +37,9 @@ public class WordLadder {
 					queue.offer(neighbor);
 				}
 			}
+			level++;
 		}
-		return null;
+		return 0;
 	}
 
 	private List<String> neighbors(String s, List<String> wordList) {
@@ -48,9 +49,13 @@ public class WordLadder {
 		for(int i=0; i<s.length();i++) {
 			char[] chars = s.toCharArray();
 			for(char ch='a'; ch<='z'; ch++) {
-				
+				chars[i]=ch;//ait~zit
+				String word = new String(chars);
+				if(dict.remove(word)){
+					res.add(word);
+				}
 			}
 		}
-		return null;
+		return res;
 	}
 }
